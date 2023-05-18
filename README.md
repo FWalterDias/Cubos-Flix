@@ -2,17 +2,17 @@
 
 # Cubos Flix
 
-Esse projeto se trata de um site fictício desenvolvido com o intuito de mostrar as infomrações sobre filmes. Essas informações são resgatadas de uma API privada, e são renderizadas na tela através de modais.
+Esse projeto se trata de um site fictício desenvolvido a partir do consumo de uma API, cujo objetivo é renderizar infomrações sobre os filmes armazenadas nesta API. As imagens das capas dos filmes são renderizadas na tela em três paginas, e as informaçãoes de cada filme específico saõ mostrradas através de modais.
 
 ### Acesse-o aqui: https://fwalterdias.github.io/Cubos-Flix/
 
 ### Funcionalidades desenvolvidas
 <p>
-    * Renderizar os 18 primeiros filmes retornados pela API <br><p></p>
-    * Fazer a paginaçãos dos filmes em 3 paginas <br><p></p>
-    * Realizar a busca de filmes através dos dados passados no <strong>input</strong> quando apertado a tecla <strong>Enter</strong> <br><p></p>
-    * Preencher os dados do <strong>filme do dia</strong> localizado abaixo da pagina, com inforações vindas da API <br><p></p>
-    * Fazer o <strong>Dark Mode</strong> do site
+    * Renderização dos 18 primeiros filmes retornados pela API <br><p></p>
+    * Paginaçãos dos filmes em 3 paginas <br><p></p>
+    * Busca de filmes através dos dados passados no <strong>input</strong> quando apertado a tecla <strong>Enter</strong> <br><p></p>
+    * Preenchimento dos dados do <strong>filme do dia</strong> localizado abaixo da pagina, com inforações vindas da API <br><p></p>
+    * <strong>Dark Mode</strong> do site
 </p>
 
 ---------------------------

@@ -208,6 +208,13 @@ async function getSearchMovies(inputContent) {
 
         moviesSerach = data.results.filter(movie => movie.original_title.toLowerCase().includes(inputContent.toLowerCase()));
 
+        if(!moviesSerach.length){
+            movies.textContent = 'Nenhum filme encontrado!';
+            // movies.style.justifyContent = 'center';
+            inputSearch.value = '';
+            return;
+        }
+
         renderMovies(moviesSerach);
 
     } catch (error) {

@@ -1,4 +1,6 @@
-### Cubos Flix
+
+
+# Cubos Flix
 
 Esse projeto se trata de um site fictício desenvolvido com o intuito de mostrar as infomrações sobre filmes. Essas informações são resgatadas de uma API privada, e são renderizadas na tela através de modais.
 

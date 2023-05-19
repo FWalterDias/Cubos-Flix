@@ -4,7 +4,7 @@
 
 Esse projeto se trata de um site fictício desenvolvido a partir do consumo de uma API, cujo objetivo é renderizar informações sobre os filmes armazenadas nesta API. As imagens das capas dos filmes são renderizadas na tela em três paginas, e as informações de cada filme específico são mostradas através de modais.
 
-### Acesse-o aqui: https://fwalterdias.github.io/Cubos-Flix/
+### Disponível em: https://fwalterdias.github.io/Cubos-Flix/
 
 ### Funcionalidades desenvolvidas
 <p>
